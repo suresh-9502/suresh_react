@@ -1,7 +1,7 @@
 {
-  "main.css": "/suresh_react/static/css/main.3d39adf8.chunk.css",
-  "main.js": "/suresh_react/static/js/main.05cb93e2.chunk.js",
-  "main.js.map": "/suresh_react/static/js/main.05cb93e2.chunk.js.map",
+  "main.css": "/suresh_react/static/css/main.9abe7e19.chunk.css",
+  "main.js": "/suresh_react/static/js/main.aea3106d.chunk.js",
+  "main.js.map": "/suresh_react/static/js/main.aea3106d.chunk.js.map",
   "static/js/1.6fee00ff.chunk.js": "/suresh_react/static/js/1.6fee00ff.chunk.js",
   "static/js/1.6fee00ff.chunk.js.map": "/suresh_react/static/js/1.6fee00ff.chunk.js.map",
   "static/css/2.802089bc.chunk.css": "/suresh_react/static/css/2.802089bc.chunk.css",
@@ -9,9 +9,9 @@
   "static/js/2.da362e64.chunk.js.map": "/suresh_react/static/js/2.da362e64.chunk.js.map",
   "runtime~main.js": "/suresh_react/static/js/runtime~main.fc094d38.js",
   "runtime~main.js.map": "/suresh_react/static/js/runtime~main.fc094d38.js.map",
-  "static/css/main.3d39adf8.chunk.css.map": "/suresh_react/static/css/main.3d39adf8.chunk.css.map",
   "static/css/2.802089bc.chunk.css.map": "/suresh_react/static/css/2.802089bc.chunk.css.map",
+  "static/css/main.9abe7e19.chunk.css.map": "/suresh_react/static/css/main.9abe7e19.chunk.css.map",
   "index.html": "/suresh_react/index.html",
-  "precache-manifest.3732b312f8140baff0fc1ac87c72c966.js": "/suresh_react/precache-manifest.3732b312f8140baff0fc1ac87c72c966.js",
+  "precache-manifest.9d333a7d5f79542f3fc5ec82d2decbd4.js": "/suresh_react/precache-manifest.9d333a7d5f79542f3fc5ec82d2decbd4.js",
   "service-worker.js": "/suresh_react/service-worker.js"
 }
