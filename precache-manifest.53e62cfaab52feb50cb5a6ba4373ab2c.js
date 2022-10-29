@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aea3106d64f918fe38f5",
-    "url": "/suresh_react/static/css/main.9abe7e19.chunk.css"
+    "revision": "785e6b3f6ffb8d55410a",
+    "url": "/suresh_react/static/css/main.5743c151.chunk.css"
   },
   {
-    "revision": "aea3106d64f918fe38f5",
-    "url": "/suresh_react/static/js/main.aea3106d.chunk.js"
+    "revision": "785e6b3f6ffb8d55410a",
+    "url": "/suresh_react/static/js/main.785e6b3f.chunk.js"
   },
   {
     "revision": "6fee00ffa10f988b051a",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/suresh_react/static/js/runtime~main.fc094d38.js"
   },
   {
-    "revision": "145ef73ba243b12dc25e259247b69b6f",
+    "revision": "f12374c7444e459ca878f4bbeeaf7338",
     "url": "/suresh_react/index.html"
   }
 ];
